@@ -1,0 +1,6 @@
+package com.webpointbd.wpims
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}

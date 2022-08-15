@@ -1,0 +1,1 @@
+const loginLabel='Login';
